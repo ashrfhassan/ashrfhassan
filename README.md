@@ -127,7 +127,7 @@ I design and build **high-performance, scalable, production-ready systems** usin
 ## 📫 Contact Me
 
 - 📧 Email: **ashrfhassan890@gmail.com**
-- 💼 LinkedIn: *(add your link here)*
+- 💼 LinkedIn: **https://www.linkedin.com/in/%F0%9F%92%BBashraf-hassan-934583120/**
 - 🧑‍💻 GitHub: **https://github.com/ashrfhassan**
 
 ---

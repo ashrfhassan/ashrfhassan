@@ -95,16 +95,9 @@ I design and build **high-performance, scalable, production-ready systems** usin
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashrfhassan&show_icons=true&theme=tokyonight&cache_seconds=86400" height="160" />
-  <img src="https://streak-stats.demolab.com?user=ashrfhassan&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashrfhassan&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p>
+![Metrics](./github-metrics.svg)
 
 ---
 
